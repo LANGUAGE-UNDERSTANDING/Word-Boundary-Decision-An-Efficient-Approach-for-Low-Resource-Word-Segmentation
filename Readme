@@ -1,1 +1,8 @@
 We will release the data and code very soon. Stay tuned for updates.
+The segmentation datasets include:
+SIGHAN 2005 bakeoff (Emerson, 2005)
+social media text WEIBO(Qiuetal.,2016)
+medical text AMTTL(Xingetal.,2018)
+patent text PT(Yeetal.,2019)
+traditional Chinese EvaHan(Lietal.,2022)
+Cantonese HKCC(Luke and Wong,2015)
