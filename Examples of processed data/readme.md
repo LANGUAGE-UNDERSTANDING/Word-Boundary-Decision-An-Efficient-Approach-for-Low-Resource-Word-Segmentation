@@ -1,1 +1,1 @@
-You can find the examples of processed files for the code
+You can find examples of processed files for the code. The text is in ancient traditional Chinese. To test the models' performance in low-resource settings, the training files include 9k words. The complete files are available in the main branch.
