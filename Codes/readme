@@ -1,2 +1,5 @@
-You can find the files in the "examples of processed data" for the codes.
-The two csv files are examples for the evaluation codes.
+You can find the example input data in the "examples of processed data" for the train and test codes.
+
+BMES_BERT_output.csv and WBD_BERT_output.csv are examples output results of train on test.
+
+And they are also example input data for the evaluation codes.
